@@ -13,6 +13,6 @@ public class BoundaryAcheterProduit {
 	}
 
 	public void acheterProduit(String nomAcheteur) {
-		// TODO à completer
+		System.out.println("Quel produit souhaitez-vous acheter ?");
 	}
 }
